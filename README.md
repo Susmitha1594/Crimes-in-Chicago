@@ -1,1 +1,5 @@
 # Crimes-in-Chicago
+
+Introduction
+Crime has been a major issue in the current world. Crime rate has been increasing rapidly since past few years and especially in the United States. Classifying the crime rates that occurred in different locations and sending this data can be helpful for the police department to protect the public by identifying the underlying areas to protect people and provide safety. Chicago is one of those states where crime rate has been more. By using dataset from Kaggle ‘Chicago Crime from 01JAN2001 to 22JUL2020’  we perform data analysis and check the different types of crimes occurring and give the information to the police department and take necessary steps based on the type of crime. The main aim of the project is to plot various Data Visualization graphs and implement different Machine Learning algorithms and finally evaluate the model that gives better accuracy in predicting the crimes which will help the police department to identify the serious crimes and take necessary actions to provide safety of the people.
+
