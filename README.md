@@ -161,6 +161,21 @@ The models that we performed were Neural Network using MLPClassifier, Random For
 ### Conclusion 
 All the models have given a good accuracy with different execution times. Out of all the models KNN has a better accuracy with less execution time, but whereas Ensemble model has a little better accuracy than KNN model.
 
+#### References:
+*	Kaggle dataset. Chicago Crime from 01Jan2001 to 22JUL2020.Retrieved from     
+  https://www.kaggle.com/n3v375/chicago-crime-from-01jan2001-to-22jul2020
+* kaggle. Classification with ML: Predict Crime Type. Retrieved from  
+  https://www.kaggle.com/heng8835/classification-with-ml-predict-crime-type
+*	Project pro. How to split DateTime Data to create multiple feature in python? Retrieved from
+  https://www.dezyre.com/recipes/split-datetime-data-create-multiple-feature-in-python
+*	Tutorials point. Machine Learning with Python. Retrieved from   
+  https://www.tutorialspoint.com/machine_learning_with_python/machine_learning_improving_performance_of_ml_model.htm
+* Towards Data Science. Accuracy, Precision, Recall or F1?. Retrieved from  
+  https://towardsdatascience.com/accuracy-precision-recall-or-f1-331fb37c5cb9
+* AditModi. Machine Learning Projects. Retrieved from  
+  https://github.com/My-Machine-Learning-Projects-2020/chicago-crime-data-analysis/blob/master/Chicago-Crime-Data-Analysis.ipynb
+
+
 
 
 
