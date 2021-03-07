@@ -159,7 +159,7 @@ For our Ensemble model we have combined Neural Network, Random Forest Classifier
 The models that we performed were Neural Network using MLPClassifier, Random Forest, KNN model. From all the models Neural Network using MLPClassifier has an accuracy of 90%, but the execution speed is very slow compared to other models. Random Forest Classifier has an accuracy of 94% and the execution time was also little faster than other models. KNN model has an accuracy of 93%. Finally, in ensemble model even thought if it has less execution speed it combines all the models together to give a little better accuracy of 94.1% which is almost close to Random Forest Classifiers accuracy. 
 
 ### Conclusion 
-All the models have given a good accuracy with different execution times. Out of all the models KNN has a better accuracy with less execution time, but whereas Ensemble model has a little better accuracy than KNN model.
+All the models have given a good accuracy with different execution times. Out of all the models Random Forest classifier has a better accuracy with less execution time, but whereas Ensemble model has a little better accuracy than Random Forest model in Predicting the Type of Crime.
 
 #### References:
 *	Kaggle dataset. Chicago Crime from 01Jan2001 to 22JUL2020.Retrieved from     
