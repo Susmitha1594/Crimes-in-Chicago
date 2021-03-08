@@ -172,8 +172,6 @@ All the models have given a good accuracy with different execution times. Out of
   https://www.tutorialspoint.com/machine_learning_with_python/machine_learning_improving_performance_of_ml_model.htm
 * Towards Data Science. Accuracy, Precision, Recall or F1?. Retrieved from  
   https://towardsdatascience.com/accuracy-precision-recall-or-f1-331fb37c5cb9
-* AditModi. Machine Learning Projects. Retrieved from  
-  https://github.com/My-Machine-Learning-Projects-2020/chicago-crime-data-analysis/blob/master/Chicago-Crime-Data-Analysis.ipynb
 
 
 
